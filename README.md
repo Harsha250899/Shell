@@ -1,2 +1,2 @@
 # Shell
-Schell Scripts are excecuting
+Schell Scripts are executed
